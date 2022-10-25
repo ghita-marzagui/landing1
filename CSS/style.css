@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Lora&family=Roboto&display=swap');
+@import url('Components/container.css');
+@import url('Components/avatar.css');
+@import url('Components/button.css');
+@import url('Components/banner.css');
+@import url('Components/card.css');
+
+@media(max-width:960px){width : 760px;}
+@media(max-width:720px){width : 520px;}
+@media(max-width:500px){width : 300px;}
+
+body {background-color:white;font-family:'Lora',serif;font-size:18px;margin:10px 0px;}
+.intro h2{font-family:'Roboto',sans-serif;font-weight:bold;text-align:center;}
+.intro{padding-top:30px;}
+a{text-decoration:none}
+p{background:white; padding:30px; border-radius:4px; box-shadow:0 10px 20px;margin:20px;text-align:flex;}
+.footer{align-items:center;margin-bottom:100px;margin:20px 0px;;box-shadow:0px 10px 30px rgba(0,0,0,0.2);border-radius:7px;width: 300px}
+.footer {padding:10px 30px 30px 30px;text-align:center; margin-left:700; margin-top: 
+100px;}
+
